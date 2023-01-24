@@ -1,4 +1,4 @@
-# centrality_measures_gpu
+# CUDA-Optimized-Centrality-Measure
 Repository for the term project of Group 5 for the course on High Performance Parallel Programming (CS61064) 2021
 
 The code is supposed to implement algorithms, namely Pagerank and Betweenness centrality, on large graphs
